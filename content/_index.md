@@ -1,15 +1,11 @@
 ---
-title: "Ahoy There!"
+title: "Hey!"
 draft: false
 ---
-Lowkey is a Clean and Simple Hugo theme inspired by [Adam Wathan's](https://adamwathan.me/) Website. Suitable for use as a personal blog, portofolio, etc. 
+My name is Dhruv Shrivastava and this is my cozy corner on the Internet. I am an aspiring software engineer, currently interning at a investment bank based out of Mumbai. I grew up in Delhi and then later moved to Pune to pursue my undergraduate engineering degree in Electronics and Telecommunication (B.Tech) from Symbiosis Institute of Technology. As a developer, I work with Python, Java, C and frameworks like Spring and Django. I am always looking to learn as I'm interested in backend systems, distributed systems and machine learning.One of my major pursuits is to build things, transform ideas into useful products and solve complex, real-world problems
 
-This theme uses TailwindCSS, so it's easy to customize.
+You can find me at other places on the web: [GitHub](https://github.com/dhruvshrivastava) [Linkedin] (https://www.linkedin.com/in/dhruvshrivastava/).
 
-If you are interested in using this theme, you can get it on [GitHub](#).
+**Hobbies & Interests:**
 
-**Example Description:**
-
-Alex Lowkey is a professor of artificial intelligence at the Unknow AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum. The point of using Lorem Ipsum. distracted by the readable content of a page.
+films, music, books, chai, basketball
